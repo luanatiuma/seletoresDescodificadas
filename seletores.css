@@ -1,4 +1,4 @@
-body {
+.square1 {
     display: inline-block;
     border: 1px solid black;
     width: 200px;
@@ -6,4 +6,115 @@ body {
     background-color: red;
 }
 
+.square2,.square3, .square4, .square5 {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square6 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square7 {
+    display: inline-flex;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square8, .square9, .square10, .square11 {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.square12 {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square13 {
+    display: inline-flex;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square14, .square15, .square16, .square17 {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.square18 {
+    display: inline-flex;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square19 {
+    display: inline-flex;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square20, .square21, .square22, .square23 {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.square24 {
+    display: inline-flex;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square25 {
+    display: inline-flex;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square26, .square27, .square28, .square29 {
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square30 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
 

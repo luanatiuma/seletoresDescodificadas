@@ -1,1 +1,1 @@
-# seletoresDescodificadas
+Tarefa da plataforma Descodificadas para aprendizado de seletores CSS
